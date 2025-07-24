@@ -1,0 +1,23 @@
+# Logs and data
+logs/
+*.log
+
+# Reports
+reports/images/
+reports/*.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SSH keys
+config/server.key
+config/server.key.pub
+
+# PID files
+*.pid
+
+# Temporary files
+all_in_one.py
+enhanced_honeypot.py
